@@ -583,5 +583,14 @@ html {
     .contact-form {
         margin-top: 32px;
     }
+    .figure-list {
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .s-figure {
+        width: 80%;
+    }
 
 }

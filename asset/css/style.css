@@ -571,6 +571,12 @@ html {
         color: #fff;
         padding: 4px 41px;
     }
+    #slider .text-content {
+        bottom: 16px;
+    }
+    #slider .text-description {
+        margin-top: 12px;
+    }
 
     #content .member-img {
         width: 50%;
